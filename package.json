@@ -20,7 +20,7 @@
     "cookie-parser": "^1.4.3",
     "dotenv": "^5.0.1",
     "express": "^4.15.3",
-    "knex": "^0.14.4"
+    "knex": "^0.19.5"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
